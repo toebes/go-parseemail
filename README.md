@@ -1,2 +1,2 @@
 # go-parseemail
-GO Routine for paling an Email address
+GO Routine for parsing an Email address
